@@ -1,1 +1,2 @@
 creating third file to push
+i was modifing git 
